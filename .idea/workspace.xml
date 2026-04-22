@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a42ffb56-f7fd-4980-89a0-ce8f1607c679" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac/hello.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009slice/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/009slice/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/leevaain",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "E:/MyProjects/PlaygroundForGo/main.go",
     "run.configurations.included.in.services": "true"
   }
@@ -65,14 +65,14 @@
       <recent name="E:\MyProjects\PlaygroundForGo" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build main.go (5)">
+  <component name="RunManager" selected="Go 构建.go build main.go (2)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="PlaygroundForGo" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <package value="PlaygroundForGo" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/005for/main.go" />
+      <filePath value="$PROJECT_DIR$/011range/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -81,16 +81,7 @@
       <kind value="FILE" />
       <package value="PlaygroundForGo" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/006if-else/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="PlaygroundForGo" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="PlaygroundForGo" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/007switch/main.go" />
+      <filePath value="$PROJECT_DIR$/012func/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -111,13 +102,22 @@
       <filePath value="$PROJECT_DIR$/009slice/main.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PlaygroundForGo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="PlaygroundForGo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/010map/main.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build main.go (5)" />
-        <item itemvalue="Go 构建.go build main.go (4)" />
-        <item itemvalue="Go 构建.go build main.go (3)" />
         <item itemvalue="Go 构建.go build main.go (2)" />
         <item itemvalue="Go 构建.go build main.go (1)" />
+        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build main.go (5)" />
+        <item itemvalue="Go 构建.go build main.go (4)" />
       </list>
     </recent_temporary>
   </component>
