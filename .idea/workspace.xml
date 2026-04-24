@@ -34,56 +34,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "Go 构建.go build PlaygroundForGo/017Interfaces.executor": "Run",
-    "Go 构建.go build main.go (1).executor": "Run",
-    "Go 构建.go build main.go (2).executor": "Run",
-    "Go 构建.go build main.go (3).executor": "Run",
-    "Go 构建.go build main.go (4).executor": "Run",
-    "Go 构建.go build main.go (5).executor": "Run",
-    "Go 构建.go build main.go.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.GoLinterPluginOnboardingV2": "true",
-    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/leevaain",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/MyProjects/PlaygroundForGo/main.go",
-    "run.configurations.included.in.services": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go 构建.go build PlaygroundForGo/017Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (2).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (3).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (4).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go (5).executor&quot;: &quot;Run&quot;,
+    &quot;Go 构建.go build main.go.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginOnboardingV2&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.GoLinterPluginStorageMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/leevaain&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/MyProjects/PlaygroundForGo/main.go&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\MyProjects\PlaygroundForGo" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build main.go (3)">
-    <configuration name="go build PlaygroundForGo/017Interfaces" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="PlaygroundForGo" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="PlaygroundForGo/017Interfaces" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/017Interfaces/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="PlaygroundForGo" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="PlaygroundForGo" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/018generics/main.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go 构建.go build main.go (5)">
     <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="PlaygroundForGo" />
       <working_directory value="$PROJECT_DIR$" />
@@ -102,22 +84,40 @@
       <filePath value="$PROJECT_DIR$/020defer/main.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PlaygroundForGo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="PlaygroundForGo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/021panic recover/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PlaygroundForGo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="PlaygroundForGo" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/023Channel/main.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="PlaygroundForGo" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <package value="PlaygroundForGo" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/016methods/main.go" />
+      <filePath value="$PROJECT_DIR$/022goroutine/main.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build main.go (5)" />
+        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build main.go (4)" />
         <item itemvalue="Go 构建.go build main.go (3)" />
         <item itemvalue="Go 构建.go build main.go (2)" />
-        <item itemvalue="Go 构建.go build main.go (1)" />
-        <item itemvalue="Go 构建.go build PlaygroundForGo/017Interfaces" />
-        <item itemvalue="Go 构建.go build main.go" />
       </list>
     </recent_temporary>
   </component>
